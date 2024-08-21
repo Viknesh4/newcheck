@@ -1,1 +1,2 @@
-print("hlo")
+for i in range(5):
+    print("hi")
